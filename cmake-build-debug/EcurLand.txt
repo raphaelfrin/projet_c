@@ -1,0 +1,953 @@
+7
+8
+clefmentine
+97
+clef orange
+celf de la chambre du roi
+99
+pettite clef en or ornne d un rubis sintillant.
+clef de la salle des fetes
+98
+grosse clef en fer
+balais
+1005009016
+balais en bois de sapin.
+chapeau
+0
+chapeau de paille
+couteau de cuisine
+1010016021
+le couteau semble user par le temps mais sont tranchant na rien perdu.
+epe clementine
+1050097123
+epe sacree de la clementine divine
+3
+4
+chambre du roi
+porte en or ornne de pierre precieuse.
+99
+salle des fetes
+grande porte en bois de chene
+98
+clementine
+pettite porte orange.
+97
+5
+8
+Valet
+Homme serieux en costard.
+100
+0
+0
+Roi d EcurLand
+Grand Ecureuil abille d une toge d ore tenant un septre dans sa main droite
+1000
+0
+100
+reine d EcurLand
+ecureuille abille d unr robe rouge et d un voile blanc comme la neige.
+300
+0
+200
+cuisto
+cuisinier
+100
+0
+300
+ecureuil malefique
+ecureuil effrayant au long dents asseree.
+500
+1050027049
+400
+12
+16
+Bonjour a toi jeune galerien le Roi Dagobert te convoquedans la salle du trone va le voir.
+0
+0
+Bonjour je suis le Roi Dagobert, j ai besoin de ton aide pour tuer l ecureuil malefique qui se terre dans ma chambre.
+2
+100
+Super merci, trouve la clef de ma chambre et va l'affronter
+0
+101
+Oh j espere que tu changeras d avis.
+0
+102
+Dit moi s avait tu que le chapeau est un accessoire port‚ sur la tete, fait de tissu, feutre, paille, ou autres materiaux, utilise pour se proteger ou par esthetique.
+1
+200
+Tu ne me semble pas tres cultive.
+0
+201
+salut tu as faim ?
+2
+300
+Va me chercher la clef mentine et tu aura une recompense.
+2
+301
+savait tu qu il existe une salle secrete qui contienderait l epe sacre de la clementine divine.
+0
+302
+Hhhaaaaaa
+0
+303
+Hhhaaaaa
+0
+304
+HAHAHAHHAH! Je suis l'ecureuil malefique
+0
+400
+7
+8
+Dacord je vais vous aider.
+100
+101
+Non j ai d autre ocupation
+100
+102
+heeuuu d acord
+200
+201
+Oui
+300
+301
+OK
+301
+302
+Je m en fous.
+301
+303
+NON
+300
+304
+7
+8
+spawn
+point d aparition
+0
+clefmentine
+clef orange
+97
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+Valet
+Homme serieux en costard.
+100
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+salle du trone
+Un vaste espace orne de colonnes dorees et de tapis pourpres. au fond, le trone majestueux surplombe la piece
+1
+clef de la salle des fetes
+grosse clef en fer
+98
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+chambre du roi
+porte en or ornne de pierre precieuse.
+99
+salle des fetes
+grande porte en bois de chene
+98
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+Roi d EcurLand
+Grand Ecureuil abille d une toge d ore tenant un septre dans sa main droite
+1000
+0
+100
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+chambre du roi
+Une chambre luxueuse aux tentures de velours et meubles. Un grand lit a balaquin trone au centre.
+99
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+ecureuil malefique
+ecureuil effrayant au long dents asseree.
+500
+1050027049
+400
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+salle des fetes
+une immense salle aux hauts plafond decore de fresques eclatantes de lustres de cristale et de colonnes de marbre.
+98
+celf de la chambre du roi
+pettite clef en or ornne d un rubis sintillant.
+99
+chapeau
+chapeau de paille
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+reine d EcurLand
+ecureuille abille d unr robe rouge et d un voile blanc comme la neige.
+300
+0
+200
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+placard a balais
+Un petit espace sombre. Des balais, seaux et chiffonss entassent dans un desordre organise.
+3
+balais
+balais en bois de sapin.
+1005009016
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+cuisine
+Une piece animee ou le cliquetis des casseroles repond aux crepitement des flammes
+3
+couteau de cuisine
+le couteau semble user par le temps mais sont tranchant na rien perdu.
+1010016021
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+clementine
+pettite porte orange.
+97
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+cuisto
+cuisinier
+100
+0
+300
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+salle clementine
+Une etrange salle au couleurs orange et au motif de clemantine de differente taille, une epe clementine trone en sont centre.
+97
+epe clementine
+epe sacree de la clementine divine
+1050097123
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+2
+2
+Bruno
+500
+spawn
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+Alice
+500
+spawn
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0

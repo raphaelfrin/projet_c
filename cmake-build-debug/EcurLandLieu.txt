@@ -1,0 +1,805 @@
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+7
+8
+spawn
+point d aparition
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+salle du trone
+Un vaste espace orne de colonnes dorees et de tapis pourpres. au fond, le trone majestueux surplombe la piece
+1
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+chambre du roi
+Une chambre luxueuse aux tentures de velours et meubles. Un grand lit a balaquin trone au centre.
+99
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+salle des fetes
+une immense salle aux hauts plafond decore de fresques eclatantes de lustres de cristale et de colonnes de marbre.
+98
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+placard a balais
+Un petit espace sombre. Des balais, seaux et chiffonss entassent dans un desordre organise.
+3
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+cuisine
+Une piece animee ou le cliquetis des casseroles repond aux crepitement des flammes
+3
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+salle clementine
+Une etrange salle au couleurs orange et au motif de clemantine de differente taille, une epe clementine trone en sont centre.
+97
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de l inventaire est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de porte est vide
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+VIDE
+cette emplacement de PNJ est vide
+0
+0
+0
+0
+2
